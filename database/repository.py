@@ -3,7 +3,8 @@ proveniência por campo, detecção de divergências, auditoria e metadados."""
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
+from datetime import date as date_cls
+from datetime import datetime, timedelta, timezone
 from typing import Any
 
 from core import config
@@ -19,7 +20,7 @@ MANUAL_SOURCE = "manual"
 TRACKED_FIELDS = (
     "date", "kickoff", "competition_id", "edition_id", "round", "stage",
     "home_team_id", "away_team_id", "flu_goals", "opp_goals", "flu_goals_ht", "opp_goals_ht",
-    "stadium_id", "city_id", "country_iso2", "attendance", "referee_id", "flu_coach_id",
+    "flu_penalties", "opp_penalties", "stadium_id", "city_id", "country_iso2", "attendance", "referee_id", "flu_coach_id",
     "opp_coach", "flu_formation",
 )
 
@@ -296,6 +297,8 @@ def upsert_match(c: Conn, rec: MatchRecord) -> tuple[str, int]:
         "flu_goals": pick(rec.home_goals, rec.away_goals), "opp_goals": pick(rec.away_goals, rec.home_goals),
         "flu_goals_ht": pick(rec.home_goals_ht, rec.away_goals_ht),
         "opp_goals_ht": pick(rec.away_goals_ht, rec.home_goals_ht),
+        "flu_penalties": pick(rec.home_penalties, rec.away_penalties),
+        "opp_penalties": pick(rec.away_penalties, rec.home_penalties),
         "stadium_id": stadium_id, "city_id": city_id, "country_iso2": rec.country_iso2,
         "attendance": rec.attendance, "referee_id": referee_id, "flu_coach_id": coach_id,
         "opp_coach": pick(rec.away_coach, rec.home_coach),
@@ -307,6 +310,16 @@ def upsert_match(c: Conn, rec: MatchRecord) -> tuple[str, int]:
         existing = c.one("SELECT * FROM matches WHERE id = ?", (ref["match_id"],))
     if existing is None:
         existing = c.one("SELECT * FROM matches WHERE natural_key = ?", (key,))
+    if existing is None and comp_id:
+        # Mesma partida com data diferente em outra fonte (jogo adiado, erro de digitação):
+        # mesmo adversário e competição a até 3 dias -> é a mesma; a data entra como divergência.
+        d0 = date_cls.fromisoformat(rec.date)
+        near = c.all("SELECT * FROM matches WHERE opponent_id = ? AND competition_id = ? AND date BETWEEN ? AND ?",
+                     (opponent, comp_id, (d0 - timedelta(days=3)).isoformat(),
+                      (d0 + timedelta(days=3)).isoformat()))
+        if len(near) == 1 and not c.scalar("SELECT 1 FROM match_source_refs WHERE match_id = ? AND source_id = ?",
+                                           (near[0]["id"], src)):
+            existing = near[0]
 
     ts = now()
     if existing is None:

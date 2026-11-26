@@ -52,11 +52,16 @@ docs/                  ETAPA1_PLANEJAMENTO.md — viabilidade, fontes, modelo de
 **Adicionar um módulo:** consultas em `modules/`, página em `views/`, uma linha em `PAGES` no `app.py`.
 **Evoluir o banco:** novo arquivo `database/migrations/NNN_*.sql` (aplicado automaticamente).
 
-## Dados atuais (24/11/2026)
+## Dados atuais (26/11/2026)
 
 | Conteúdo | Quantidade | Fonte | Situação |
 |---|---|---|---|
-| Partidas | 856 (Brasileirão Série A 2003–2024) | Brasileirão Dataset | confiabilidade média |
+| Partidas — total | 4.219 | ver linhas abaixo | confiabilidade média |
+| Campeonato Carioca | 2.307 (1906–2024) | RSSSF Brasil | sem 2025/2026 (a fonte não tem) |
+| Brasileirão (A, B, C, Taça Brasil, Robertão) | 1.587 (1960–2026) | RSSSF, Brasileirão Dataset, openfootball | 1996–1998 quase vazios (rodadas com duas datas); 2026 parcial |
+| Copa do Brasil | 155 (1992–2025) | RSSSF, openfootball | anos 1989–1998 sem data por jogo na fonte |
+| Libertadores / Sul-Americana / Recopa | 97 / 63 / 2 | RSSSF, openfootball | Sul-Americana 2025 parcial |
+| Mundial de Clubes FIFA | 8 (2023, 2025) | openfootball | — |
 | Gols/cartões detalhados | 3.162 eventos | idem | — |
 | Jogadores com passagem | 803 | Wikidata | não verificado |
 | Títulos | 46 | Wikidata | **incompleto**, não verificado |
@@ -68,8 +73,10 @@ docs/                  ETAPA1_PLANEJAMENTO.md — viabilidade, fontes, modelo de
 
 1. **Geolocalizar estádios** (Painel → Atualização, em lotes) — habilita cidades e o mapa de estádios.
 2. **Unificar técnicos** (Painel → Pessoas → sugestões automáticas).
-3. **Partidas fora do Brasileirão** (Carioca, Libertadores, Copa do Brasil, Mundiais, amistosos, 1902–2002):
-   transcrever do RSSSF/livros via CSV padronizado (modelo no painel). Só então o globo terá países além do Brasil.
+3. **Lacunas de partidas** — importar via CSV padronizado (modelo no painel), com fonte: Carioca 2025–2026,
+   Brasileirão 1996–1998, Copa do Brasil 1989–1998, Sul-Americana 2025 completa, Copa do Brasil 2026,
+   jogos decididos no tribunal ("awd"), amistosos. Atualizar 2026 rodando
+   `python scripts/update_data.py --skip-auto --rsssf` e o coletor openfootball (Painel → Atualização).
 4. Revisar títulos (marcar verificado/oficial, completar Cariocas que faltam no Wikidata).
 5. Cadastros manuais com fonte: árbitros, uniformes (com evidência), presidentes, artigos e linha do tempo.
 6. Publicação: definir `ADMIN_PASSWORD_HASH` como segredo do servidor; para vários editores simultâneos,

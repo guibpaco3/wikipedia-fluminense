@@ -34,9 +34,20 @@ SOURCES = [
     dict(code="ogol", name="oGol", kind="site", base_url="https://www.ogol.com.br",
          license="Termos restritivos", reliability="media", automated=False,
          notes="Transcrição manual com citação."),
-    dict(code="rsssf", name="RSSSF / RSSSF Brasil", kind="site", base_url="https://www.rsssf.org",
-         license="Uso não comercial com crédito", reliability="media", automated=False,
-         notes="Melhor fonte para o período pré-2003; páginas em texto livre — transcrição via CSV."),
+    dict(code="rsssf", name="RSSSF / RSSSF Brasil (Rec.Sport.Soccer Statistics Foundation)", kind="site",
+         base_url="https://www.rsssf.org",
+         license="Cópia permitida com crédito aos autores e à RSSSF (aviso de cada página)", reliability="media",
+         automated=True,
+         notes="Carioca 1906–2024 (rsssfbrasil.com), Brasileiro 1959–2002 (Taça Brasil, Robertão, Série A/B/C), "
+               "Copa do Brasil 1989–2024, Libertadores e Sul-Americana até 2011, Recopa. Páginas em texto "
+               "livre lidas por parser próprio; cada partida guarda a URL da página (crédito aos autores). "
+               "Coleta lenta (3 s entre páginas) com cache: cada página é baixada uma vez. Jogos sem data "
+               "exata na página não são importados."),
+    dict(code="openfootball", name="openfootball (Football.TXT)", kind="dataset",
+         base_url="https://github.com/openfootball", license="CC0 1.0 (domínio público)", reliability="media",
+         automated=True,
+         notes="Série A 2025–2026, Copa do Brasil 2025, Libertadores e Sul-Americana 2012–2026, "
+               "Mundial de Clubes 2023 e 2025. Placar, intervalo, prorrogação e pênaltis; sem autores de gols."),
     dict(code="fluminense_oficial", name="Site oficial do Fluminense", kind="site",
          base_url="https://www.fluminense.com.br", license="Conteúdo editorial do clube",
          reliability="alta", automated=False, notes="Referência para história e institucional."),

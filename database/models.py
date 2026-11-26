@@ -49,6 +49,8 @@ class MatchRecord:
     neutral: bool = False
     home_goals_ht: int | None = None
     away_goals_ht: int | None = None
+    home_penalties: int | None = None      # disputa de pênaltis, quando houve
+    away_penalties: int | None = None
     stadium: str | None = None
     city: str | None = None
     country_iso2: str | None = None

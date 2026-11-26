@@ -35,11 +35,15 @@ if next_id:
 
 d = date.fromisoformat(m["date"])
 home, away = m["home_team"], m["away_team"]
-flu_home = m["flu_side"] != "visitante"
+# Lado do Fluminense pelo mandante listado (em campo neutro o mandante listado pode ser o adversário).
+flu_home = m["away_team"] == m["opponent"]
 hg, ag = (m["flu_goals"], m["opp_goals"]) if flu_home else (m["opp_goals"], m["flu_goals"])
 hht, aht = (m["flu_goals_ht"], m["opp_goals_ht"]) if flu_home else (m["opp_goals_ht"], m["flu_goals_ht"])
+hp, ap = (m["flu_penalties"], m["opp_penalties"]) if flu_home else (m["opp_penalties"], m["flu_penalties"])
 score = f"{'?' if hg is None else hg} x {'?' if ag is None else ag}"
 ht = f" · intervalo {hht} x {aht}" if hht is not None and aht is not None else ""
+if hp is not None and ap is not None:
+    ht += f" · pênaltis {hp} x {ap}"
 comp = " · ".join(x for x in (m["competition"], m["season"], m["stage"],
                                m["round"] and f"Rodada {m['round']}") if x)
 st.markdown(f"""

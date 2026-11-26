@@ -6,7 +6,7 @@ from datetime import date
 import pandas as pd
 import streamlit as st
 
-from collectors import brasileirao_dataset, csv_import, wikidata
+from collectors import brasileirao_dataset, csv_import, openfootball, rsssf, wikidata
 from components import data
 from core import config
 from core.auth import LoginGuard
@@ -78,7 +78,18 @@ with tabs[0]:
         with st.spinner("Consultando o Wikidata…"):
             show_result(wikidata.collect(("titles", "players", "coaches")))
         after_change("Atualização concluída.")
-    pending = query_one("SELECT COUNT(*) AS n FROM stadiums WHERE wikidata_id IS NULL")["n"]
+    a, b = st.columns(2)
+    if a.button("openfootball (Série A 2025–26, Libertadores/Sul-Americana 2012–, Mundiais)", width="stretch"):
+        with st.spinner("Baixando arquivos do openfootball…"):
+            show_result(openfootball.collect())
+        after_change("Atualização concluída.")
+    parts = b.multiselect("RSSSF — partes", ["carioca", "brasileiro", "copa_do_brasil", "libertadores",
+                                             "sulamericana", "recopa"], default=[])
+    if b.button("RSSSF (páginas já baixadas vêm do cache)", width="stretch", disabled=not parts):
+        with st.spinner("Lendo páginas da RSSSF (3 s entre downloads novos)…"):
+            show_result(rsssf.collect(set(parts)))
+        after_change("Atualização concluída.")
+    pending =query_one("SELECT COUNT(*) AS n FROM stadiums WHERE wikidata_id IS NULL")["n"]
     st.markdown(f"#### Geolocalização de estádios ({pending} pendentes)")
     st.caption("Feita em lotes (~3 requisições por estádio, com pausa entre elas). "
                "Resultados entram como 'não verificado'.")

@@ -1,0 +1,9 @@
+.env
+.streamlit/secrets.toml
+data/*.db-*
+data/cache/
+data/logs/
+__pycache__/
+.pytest_cache/
+*.pyc
+# data/wikipedia.db é versionado de propósito: é o banco que o site publicado usa.

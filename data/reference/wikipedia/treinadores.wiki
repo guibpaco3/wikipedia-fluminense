@@ -1,0 +1,1927 @@
+{{Mais notas|data=outubro de 2021}}
+[[Ficheiro:Zagallo and Lula and Parreira.jpeg|thumb|right|200px|[[Carlos Alberto Parreira|Parreira]] e [[Mário Jorge Lobo Zagallo|Zagallo]].]]
+Este [[Wikipédia:Artigo|artigo]] é uma lista, provavelmente '''incompleta''' e em '''[[Cronologia|ordem cronológica]]''', de [[treinador]]es do '''[[Fluminense Football Club]]''', ressaltando os seus títulos e campanhas de destaque mais importantes.
+
+== Ordem cronológica ==
+:<small>'''Legenda:'''</small>
+:<small>{{colorbox|white}} Treinador efetivo</small>
+:<small>{{colorbox|lightgreen}} Treinador interino</small>
+:<small>{{aumento}} Ascensão</small>
+:<small>{{baixa}} Rebaixamento</small>
+
+{| border="1" cellpadding="2" style="border-collapse:collapse;"
+! style="background:#B22222; color:#fff; width:220px" | '''Treinador'''
+! style="background:#B22222; color:#fff; width:180px;" | '''Período'''
+! style="background:#B22222; color:#fff; width:600px" | '''Títulos, destaques e observações'''
+! style="background:#B22222; color:#fff; width:70px" | {{Tooltip|Not. e ref.|Notas e referências}}
+|- style="background:white; color:black; text-align:left;"
+| style="text-align:center" |''Ground Committeé''
+| 19/10/1902 – 20/10/1910
+| <small>'''1906:''' Campeão do [[Campeonato Carioca de Futebol de 1906|Campeonato Carioca]]<br />'''1907:''' Campeão do [[Campeonato Carioca de Futebol de 1907|Campeonato Carioca]] <br />'''1908:''' Campeão do [[Campeonato Carioca de Futebol de 1908|Campeonato Carioca]]<br />'''1909:''' Campeão do [[Campeonato Carioca de Futebol de 1909|Campeonato Carioca]]</small>
+|{{Nre|Formação indefinida.}}
+|- style="background:white; color:black; text-align:left;"
+| {{ENGb}} [[Charlie Williams (futebolista)|Charlie Williams]]
+| 23/04/1911 – 27/10/1912
+| <small>'''1911:''' Campeão do [[Campeonato Carioca de Futebol de 1911|Campeonato Carioca]]</small>
+|{{Nre|Formação: [[Affonso de Castro]], [[José Gomes Coimbra]], [[Augusto Tota Rodrigues]], [[Francisco Bueno Netto]] e [[Gilbert Hime]].}}<br /><ref>{{citar periódico |url=http://memoria.bn.gov.br/docreader/DocReader.aspx?bib=107670_01&pagfis=12505&pesq=Comissão%20de%20Sports |titulo=Fluminense F. Club |data=16 de janeiro de 1916 |acessodata=20 de março de 2019 |jornal=O Imparcial |editora= |numero= |autor= |local=[[Rio de Janeiro]] |paginas=pág. 9, de 14 págs. no total |idioma=português |formato=PDF |bibcode= |doi= |issn= |oclc= |pmid= |id= |volume= |coautores= |lingua2= |aspas=}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| style="text-align:center" |''Ground Committeé''
+| 03/05/1913 – 08/12/1916
+| <small>'''1916:''' Campeão do [[Torneio Início do Campeonato Carioca|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{ENGb}} [[Quincey Taylor]]
+| 03/01/1917 – 08/12/1918
+| <small>'''1917:''' Campeão do [[Campeonato Carioca de Futebol de 1917|Campeonato Carioca]]<br />'''1918:''' Campeão do [[Campeonato Carioca de Futebol de 1918|Campeonato Carioca]]</small>
+|{{Nre|Algumas fontes referem-se ao treinador Pode Pedersen com outros nomes, tais como '''Pode Pettersen''' ou '''Pote Pettersen'''.}}<br /><ref>Livro Fluminense Football Club: história, conquistas e glórias no futebol, página 181, por Antonio Carlos Napoleão</ref><ref>{{citar periódico |url=http://www.jusbrasil.com.br/diarios/2073140/pg-52-secao-1-diario-oficial-da-uniao-dou-de-26-10-1922/pdfView |titulo=Classes 129 à 131 - Exercidos das crianças e dos adultos - Teoria e prática |data=26 de outubro de 1922 |acessodata=1 de abril de 2014 |jornal=[[Diário Oficial da União]] |editora=D.O.U. |numero=248 |autor= |local=Rio de Janeiro |paginas=pág. 52 (seção 1), de 62 págs. no total |idioma=português |formato=PDF |issn= |volume= |coautores=|wayb=20230407005718 }}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Ramón Platero]]
+| 08/06/1919 – 28/12/1919
+| <small>'''1919:''' Campeão do [[Campeonato Carioca de Futebol de 1919|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{DINb}} [[Pode Pedersen]]
+| 28/03/1920 – 01/11/1923
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{ENGb}} [[Charlie Williams (futebolista)|Charlie Williams]]
+| 04/05/1924 – 19/09/1926
+| <small>'''1924:''' Campeão do [[Campeonato Carioca de Futebol de 1924|Campeonato Carioca]]</small>
+|{{Nre|Algumas fontes afirmam que Eugênio Medgyessy teria trabalhado apenas como técnico interino no Fluminense. Porém, como esta não é uma informação confirmada ou verídica, nessa lista o treinador aparece como efetivo.}}
+|- style="background:white; color:black; text-align:left;"
+| {{HUNb}} [[Eugênio Medgyessy]]
+| 03/04/1927 – 21/10/1928
+| <small>'''1927:''' Campeão do [[Torneio Início do Campeonato Carioca]]{{Nre|Competição posteriormente anulada a pedido do próprio Fluminense.}}
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Luís Augusto Vinhaes|Luís Vinhaes]]
+| 07/04/1929 – 07/07/1933
+| 
+|<ref>«Luis Vinhaes Não É Mais O Technico Do Fluminense», [[Jornal dos Sports]] (RJ), 8 de julho de 1933, p. 1</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Arthur Azevedo (treinador de futebol)|Arthur Azevedo]]
+| 27/07/1933 – 10/12/1933
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{ENGb}} [[Quincey Taylor]]
+| 14/01/1934 – 03/04/1936
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Humberto Cabelli]]
+| 1935 – 1936
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Héctor Cabelli]]
+| 16/04/1936 – 18/10/1936
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Carlos Carlomagno]]
+| 25/10/1936 – 14/08/1938
+| <small>'''1936:''' Campeão do [[Campeonato Carioca de Futebol de 1936 (LCF)|Campeonato Carioca]]<br />'''1937:''' Campeão do [[Campeonato Carioca de Futebol de 1937|Campeonato Carioca]]<br />'''1938:''' Campeão do [[Campeonato Carioca de Futebol de 1938|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Carlos Nascimento (treinador)|Carlos Nascimento]]
+| 1938
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Ondino Viera]]
+| 25/10/1938 – 14/03/1943
+| <small>'''1938:''' Campeão do [[Campeonato Carioca de Futebol de 1938|Campeonato Carioca]]<br />'''1940:''' Campeão do [[Campeonato Carioca de Futebol de 1940|Campeonato Carioca]]<br />'''1941:''' Campeão do [[Campeonato Carioca de Futebol de 1941|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Arno Frank]]
+| 16/03/1943 – 29/08/1943
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Athuel Velázquez]]
+| 12/09/1943 – 25/06/1944
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Humberto Cabelli]]
+| 01/07/1944 – 15/10/1944
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Athuel Velázquez]]
+| 22/10/1944 – 23/12/1944
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Humberto Cabelli]]
+| 18/02/1945 – 18/03/1945
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Héctor Cabelli]]
+| 25/03/1945 – 03/06/1945
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Humberto Cabelli]]
+| 17/06/1945 – 02/07/1945
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Gentil Cardoso]]
+| 08/07/1945 – 21/12/1947
+| <small>'''1946:''' Campeão do [[Campeonato Carioca de Futebol de 1946|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Ondino Viera]]
+| 22/02/1948 – 18/07/1948
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Gentil Cardoso]]
+| 01/08/1948 – 05/09/1948
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Ondino Viera]]
+| 19/09/1948 – 25/07/1950
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Otto Vieira]]
+| 26/07/1950 – 27/01/1951
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Elba de Pádua Lima|Tim]]
+| 1951
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Zezé Moreira]]
+| 11/03/1951 – 15/01/1954
+| <small>'''1951:''' Campeão do [[Campeonato Carioca de Futebol de 1951|Campeonato Carioca]]<br />'''1952:''' Campeão da [[Copa Rio de 1952|Copa Rio Internacional]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Newton Célio Anet|Newton Anet]]
+| 07/09/1952
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Gradim (treinador de futebol)|Gradim]]
+| 21/01/1954 – 25/07/1954
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Zezé Moreira]]
+| 28/07/1954 – 16/02/1955
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{ARGb}} {{BRAb}} [[Adolpho Milman|Russo]]
+| 24/04/1955 – 07/09/1955
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Gradim (treinador de futebol)|Gradim]]
+| 26/03/1955 – 26/02/1956
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Sylvio Pirillo]]
+| 29/02/1956 – 24/08/1958
+| <small>'''1957:''' Campeão do [[Torneio Rio-São Paulo de 1957|Torneio Rio-São Paulo]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Jorge Vieira (treinador de futebol)|Jorge Vieira]]
+| 24/08/1958 – 19/10/1958
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Zezé Moreira]]
+| 26/10/1958 – 16/12/1962
+| <small>'''1959:''' Campeão do [[Campeonato Carioca de Futebol de 1959|Campeonato Carioca]]<br />'''1960:''' Campeão do [[Torneio Rio-São Paulo de 1960|Torneio Rio-São Paulo]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Jair Santana]]
+| 13/03/1960
+| 
+|<ref>{{citar web|url=http://www.fluminense.com.br/site/futebol/2012/08/02/jair-santana-fala-das-lembrancas-e-da-importancia-do-mundial-de-1952/|titulo=Jair Santana fala das lembranças e da importância do Mundial de 1952|data=2 de agosto de 2012|acessodata=24 de fevereiro de 2014|publicado=Fluminense.com|autor=ZANELLI, Leonardo (Assessoria de Imprensa – FFC)|wayb=20161116021951}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Zezé Moreira]]
+| 1961 – 1963
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Antoninho Fernandes]]
+| 02/02/1963 – 12/05/1963
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Newton Célio Anet|Newton Anet]]
+| 23/03/1963
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{PARb}} [[Manuel Fleitas Solich|Fleitas Solich]]
+| 16/05/1963 – 12/04/1964
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Elba de Pádua Lima|Tim]]
+| 19/04/1964 – 28/05/1967
+| <small>'''1964:''' Campeão do [[Campeonato Carioca de Futebol de 1964|Campeonato Carioca]]</small>
+|<ref>{{citar web|url=http://www.forumscp.com/wiki/index.php?title=Alfredo_Gonzalez|titulo=Alfredo González|data=8 de abril de 2010|acessodata=3 de fevereiro de 2014|publicado=FórumSCP.com|autor=To-mane|wayb=20191021021612}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{ARGb}} [[Alfredo González]]
+| 04/06/1967 – 11/08/1967
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Telê Santana]]
+| 20/08/1967 – 25/05/1968
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Evaristo de Macedo]]
+| 30/05/1968 – 01/12/1968
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Telê Santana]]
+| 05/12/1968 – 17/12/1969
+| <small>'''1969:''' Campeão do [[Campeonato Carioca de Futebol de 1969|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulo Amaral]]
+| 25/01/1970 – 03/03/1971
+| <small>'''1970:''' Campeão do [[Campeonato Brasileiro de Futebol de 1970|Campeonato Brasileiro]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[João Carlos Batista Pinheiro|Pinheiro]]
+| 1971
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Mário Zagallo|Zagallo]]
+| 06/03/1971 – 12/12/1971
+| <small>'''1971:''' Campeão do [[Campeonato Carioca de Futebol de 1971|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulo Amaral]]
+| 16/01/1972 – 24/08/1972
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[João Carlos Batista Pinheiro|Pinheiro]]
+| 27/08/1972 – 17/12/1972
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Mário Travaglini]]
+| 1972
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Zezé Moreira]]
+| 1973
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Davi Ferreira|Duque]]
+| 28/01/1973 – 27/07/1974
+| <small>'''1973:''' Campeão do [[Campeonato Carioca de Futebol de 1973|Campeonato Carioca]] e do [[Torneio Internacional de Verão do Rio de Janeiro de 1973|Torneio Internacional de Verão]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Carlos Alberto Parreira]]
+| 03/08/1974 – 07/12/1974
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulo Emílio (treinador de futebol)|Paulo Emílio]]
+| 26/01/1975 – 23/02/1975
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Valdir Pereira|Didi]]
+| 01/03/1975 – 02/04/1975
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulo Emílio (treinador de futebol)|Paulo Emílio]]
+| 05/04/1975 – 17/08/1975
+| <small>'''1975:''' Campeão do [[Campeonato Carioca de Futebol de 1975|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Jair Rosa Pinto]]
+| 30/08/1975 – 27/09/1975
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Valdir Pereira|Didi]]
+| 05/10/1975 – 10/03/1976
+| <small>'''1976:''' Campeão do [[Torneio Viña del Mar de 1976|Torneio Viña del Mar]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Mário Travaglini]]
+| 14/03/1976 – 30/07/1977
+| <small>'''1976:''' Campeão do [[Campeonato Carioca de Futebol de 1976|Campeonato Carioca]] e do [[Torneio de Paris de Futebol|Torneio de Paris]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[João Carlos Batista Pinheiro|Pinheiro]]
+| 06/08/1977 – 17/12/1977
+| <small>'''1977:''' Campeão do [[Troféu Teresa Herrera 1977|Troféu Teresa Herrera]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulo Emílio (treinador de futebol)|Paulo Emílio]]
+| 29/01/1978 – 12/10/1978
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Admildo Chirol]]
+| 15/10/1978 – 28/04/1979
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[José Duarte (treinador)|José Duarte]]
+| 01/05/1979 – 21/07/1979
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Sebastião Araújo]]
+| 28/07/1979 – 03/11/1979
+| 
+|<ref name="SebAra_Entrev1">{{citar web|url=http://www.portalbarra.com.br/html/entrevistas/copa/entrev_sebastiao.html|titulo=Sebastião Araújo (entrevista - parte 1)|data=|acessodata=2 de agosto de 2014|publicado=PortalBarra.com|autor=|wayb=20250328024939}}</ref><br /><ref name="SebAra_Entrev2">{{citar web|url=http://www.portalbarra.com.br/html/entrevistas/copa/entrev_sebastiao_2.html|titulo=Sebastião Araújo (entrevista - parte 2)|data=|acessodata=2 de agosto de 2014|publicado=PortalBarra.com|autor=|wayb=20250328032542}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Nelsinho Rosa]]
+| 08/11/1979 – 21/11/1979
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Sebastião Rocha (treinador de futebol)|Sebastião Rocha]]
+| 1979 – 1980
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Mário Zagallo|Zagallo]]
+| 25/11/1979 – 02/08/1980
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Nelsinho Rosa]]
+| 12/08/1980 – 02/08/1981
+| <small>'''1980:''' Campeão do [[Campeonato Carioca de Futebol de 1980|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} João Carlos
+| 08/08/1981 – 30/08/1981
+| 
+|{{Nre|Nome do treinador total ou parcialmente desconhecido.}}
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Luiz Henrique Ferreira de Menezes|Luiz Henrique]]
+| 02/09/1981 – 04/10/1981
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Dino Sani]]
+| 10/10/1981 – 08/05/1982
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Luís Ribeiro Pinto Neto|Lula]]
+| 16/05/1982 – 25/09/1982
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulinho de Almeida]]
+| 03/10/1982 – 11/12/1982
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Cláudio Galbo Garcia|Cláudio Garcia]]
+| 23/01/1983 – 11/09/1983
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[José Luiz Carbone|Carbone]]
+| 17/09/1983 – 11/04/1984
+| <small>'''1983:''' Campeão do [[Campeonato Carioca de Futebol de 1983|Campeonato Carioca]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[José Carlos Amaral]]
+| 15/04/1984
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Carlos Alberto Parreira]]
+| 18/04/1984 – 06/06/1984
+| <small>'''1984:''' Campeão do [[Campeonato Brasileiro de Futebol de 1984|Campeonato Brasileiro]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Luiz Henrique Ferreira de Menezes|Luiz Henrique]]
+| 28/06/1984 – 23/09/1984
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Carlos Alberto Torres]]
+| 02/10/1984 – 09/02/1985
+| <small>'''1984:''' Campeão do [[Campeonato Carioca de Futebol de 1984|Campeonato Carioca]] e do [[Torneio de Seul de 1984|Torneio de Seul]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| rowspan="2" | {{BRAb}} [[Raul Carlesso]]
+| 01/12/1984
+| rowspan="2" |
+| rowspan="2" |<ref name="R. Carlesso">{{citar web|url=http://www.oexplorador.com.br/site/ver.php?codigo=12662|titulo=Raul Alberto Carlesso, treinador de goleiros. Integrou a comissão técnica da Seleção Brasileira|data=|acessodata=3 de fevereiro de 2014|publicado=OExplorador.com|autor=|arquivourl=https://web.archive.org/web/20150924055101/http://www.oexplorador.com.br/site/ver.php?codigo=12662|arquivodata=2015-09-24|urlmorta=yes}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| 13/02/1985 – 24/02/1985
+
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Roberto Rosa Pinto|Roberto Pinto]]
+| 27/02/1985 – 23/08/1985
+| 
+|<ref>{{citar web|url=http://terceirotempo.bol.uol.com.br/que-fim-levou/roberto-pinto-3675|titulo=Que Fim Levou? Roberto Pinto|data=|acessodata=24 de abril de 2014|publicado=TerceiroTempo.com|autor=|wayb=20160303185733}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{ARGb}} [[José Omar Pastoriza]]
+| 16/06/1985
+| 
+|{{Nre|Algumas fontes afirmam que José Omar Pastoriza teria trabalhado apenas como técnico interino no Fluminense. Porém, como esta não é uma informação confirmada ou verídica, nessa lista o treinador aparece como efetivo.}}
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Nelsinho Rosa]]
+| 07/07/1985 – 30/07/1986
+| <small>'''1985:''' Campeão do [[Campeonato Carioca de Futebol de 1985|Campeonato Carioca]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Lúcio Novelli]]
+| 01/05/1986 – 11/05/1986
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Vanderlei Luxemburgo]]
+| 02/08/1986 – 28/01/1987
+| 
+|<ref>{{citar web|url=http://portalclick.com.br/portalclick/2013/luxemburgo-assina-com-o-fluminense-ate-o-fim-de-2013/|titulo=Luxemburgo assina com o Fluminense até o fim de 2013|data=18 de fevereiro de 2013|acessodata=4 de fevereiro de 2014|publicado=PortalClick.com|autor=|wayb=20161116020900}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Antônio Lopes (treinador de futebol)|Antônio Lopes]]
+| 31/08/1986 – 08/04/1987
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Everaldo Antônio da Silva|Everaldo Antônio]]
+| 12/04/1987 – 06/05/1987
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[José Luiz Carbone|Carbone]]
+| 10/05/1987 – 21/11/1987
+| <small>'''1987:''' Campeão da [[Copa Kirin 1987|Copa Kirin]] e do [[Torneio Internacional de Paris de 1987|Torneio de Paris]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Sebastião Araújo]]
+| 29/11/1987 – 27/03/1988
+| 
+|<ref name="SebAra_Entrev1" /><ref name="SebAra_Entrev2" />
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Ismael Kurtz]]
+| 02/04/1988 – 10/07/1988
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Sérgio Cosme]]
+| 30/07/1988 – 25/02/1989
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Candinho]]
+| 1988 – 1990
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Othon Valentim Filho|Othon Valentim]]
+| 05/03/1989 – 21/05/1989
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Procópio Cardoso]]
+| 06/05/1989 – 14/10/1989
+| '''<small>1989:</small>''' <small>Campeão do [[Torneio de Kiev de 1989|Torneio de Kiev]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Rubens Galaxe]]
+| 18/10/1989 – 22/10/1989
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Telê Santana]]
+| 29/10/1989 – 09/12/1989
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Evaristo de Macedo]]
+| 28/01/1990 – 03/03/1990
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulo Emílio (treinador de futebol)|Paulo Emílio]]
+| 07/03/1990 – 07/10/1990
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Gílson Nunes]]
+| 10/10/1990 – 29/06/1991
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Edino Nazareth Filho|Edinho]]
+| 17/07/1991 – 19/12/1991
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Arthur Bernardes (treinador de futebol)|Arthur Bernardes]]
+| 27/01/1992 – 02/08/1992
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Altair Gomes de Figueiredo|Altair]]
+| 1992
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Sérgio Cosme]]
+| 22/08/1992 – 13/12/1992
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Edino Nazareth Filho|Edinho]]
+| 07/02/1993 – 16/06/1993
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Nelsinho Rosa]]
+| 23/06/1993 – 10/10/1993
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Mauro Rosa Martins]]
+| 13/10/1993
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Eduardo Antunes Coimbra|Edu Coimbra]]
+| 17/10/1993 – 14/11/1993
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Carlos Alberto Torres]]
+| 29/01/1994 – 18/02/1994
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Wanderley Alves de Oliveira|Delei]]
+| 20/02/1994 – 02/06/1994
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[João Carlos Batista Pinheiro|Pinheiro]]
+| 15/06/1994 – 27/11/1994
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Altair Gomes de Figueiredo|Altair]]
+| 1994
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Luís Antônio Zaluar]]
+| 1994 – 1995
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Altair Gomes de Figueiredo|Altair]]
+| 1995
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Joel Santana]]
+| 28/01/1995 – 10/12/1995
+| <small>'''1995:''' Campeão do [[Campeonato Carioca de Futebol de 1995|Campeonato Carioca]]</small> 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Jair Pereira]]
+| 28/01/1996 – 04/08/1996
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Jorge Vieira (treinador de futebol)|Jorge Vieira]]
+| 11/08/1996 – 05/09/1996
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Renato Gaúcho]]
+| 08/09/1996 – 24/11/1996
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Cláudio Duarte]]
+| 18/09/1996 – 03/11/1996
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Altair Gomes de Figueiredo|Altair]]
+| 06/11/1996
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Júlio César Leal]]
+| 18/01/1997 – 26/03/1997
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Valdir Espinosa]]
+| 03/04/1997 – 24/05/1997
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Altair Gomes de Figueiredo|Altair]]
+| 07/06/1997
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{URUb}} [[Hugo de León]]
+| 02/07/1997 – 09/07/1997
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[José Luiz Carbone|Carbone]]
+| 13/07/1997 – 21/09/1997
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Arturzinho]]
+| 24/09/1997 – 01/12/1997
+| <small>{{baixa}} '''1997:''' 25º colocado no [[Campeonato Brasileiro de Futebol de 1997|Campeonato Brasileiro - Série A]] e rebaixado à [[Campeonato Brasileiro de Futebol de 1998 - Série B|Série B de 1998]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Edino Nazareth Filho|Edinho]]
+| 20/01/1998 – 06/05/1998
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Altair Gomes de Figueiredo|Altair]]
+| 13/05/1998 – 13/06/1998
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Wanderley Alves de Oliveira|Delei]]
+| 25/07/1998 – 29/08/1998
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Sérgio Cosme]]
+| 06/09/1998 – 06/10/1998
+| <small>{{baixa}} '''1997:''' 19º colocado no [[Campeonato Brasileiro de Futebol de 1998 - Série B|Campeonato Brasileiro - Série B]] e rebaixado à [[Campeonato Brasileiro de Futebol de 1999 - Série C|Série C de 1999]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Duílio Dias Júnior|Duílio]]
+| 10/10/1998 – 19/12/1998
+| '''<small>1998:</small>''' <small>Campeão da [[Copa Rio 1998|Copa Rio]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Carlos Alberto Parreira]]
+| 13/01/1999 – 13/02/2000
+| <small>{{aumento}} '''1999:''' Campeão do [[Campeonato Brasileiro de Futebol de 1999 - Série C|Campeonato Brasileiro - Série C]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Duílio Dias Júnior|Duílio]]
+| 25/07/1999
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Valdir Espinosa]]
+| 17/02/2000 – 09/05/2001
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Duílio Dias Júnior|Duílio]]
+| 14/05/2000
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Rivelino Serpa]]
+| 22/10/2000 – 19/11/2000
+| 
+|<ref>{{citar web|url=http://www.terra.com.br/esportes/2000/10/22/041.htm|titulo=Filho de Espinosa comanda Flu contra Corinthians|data=22 de outubro de 2000|acessodata=24 de fevereiro de 2014|publicado=[[Terra Networks|Terra]].com|autor=L! Sportpress|wayb=20250328032008}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Duílio Dias Júnior|Duílio]]
+| 12/05/2001
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Oswaldo de Oliveira (treinador de futebol)|Oswaldo de Oliveira]]
+| 14/07/2001 – 17/04/2002
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Waldemar Lemos]]
+| 01/02/2002 – 21/03/2002
+| 
+|{{Nre|Algumas fontes afirmam que Waldemar Lemos teria trabalhado apenas como técnico interino no Fluminense. Porém, como esta não é uma informação confirmada ou verídica, nessa lista o treinador aparece como efetivo.}}
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Roberto Oliveira Gonçalves do Carmo|Robertinho]]
+| 28/04/2002 – 31/08/2002
+| <small>'''2002:''' Campeão do [[Campeonato Carioca de Futebol de 2002|Campeonato Carioca]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Renato Gaúcho]]
+| 04/09/2002 – 10/07/2003
+|
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Alexandre Mendes]]
+| 18/06/2003
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Gilson Gênio]]
+| 13/07/2003 – 16/07/2003
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Joel Santana]]
+| 19/07/2003 – 01/10/2003
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Renato Gaúcho]]
+| 04/10/2003 – 14/12/2003
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Valdir Espinosa]]
+| 17/01/2004 – 29/02/2004
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Ricardo Gomes]]
+| 07/03/2004 – 15/08/2004
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Alexandre Gama]]
+| 19/08/2004 – 19/12/2004
+| 
+|<ref>{{citar web|url=http://www.grandearea.com.br/perfil_view.php?id_cadastro=544|titulo=Alexandre Gama|data=|acessodata=3 de fevereiro de 2014|publicado=GrandeÁrea.com|autor=|wayb=20160304001713}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Abel Braga]]
+| 23/01/2005 – 04/12/2005
+| <small>'''2005:''' Campeão do [[Campeonato Carioca de Futebol de 2005|Campeonato Carioca]] e vice-campeão da [[Copa do Brasil de Futebol de 2005|Copa do Brasil]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Ivo Wortmann]]
+| 13/12/2005 – 18/02/2006
+| 
+|<ref>{{citar web|url=http://globoesporte.globo.com/ESP/Noticia/Arquivo/0,,AA1089071-4274,00.html|titulo=Ivo Wortmann é o novo técnico do Flu|data=12 de dezembro de 2005|acessodata=19 de julho de 2020|publicado=globoesporte.com|autor=LAVINAS, Thiago|wayb=20230407005736}}</ref><ref>{{citar web|url=https://www.uol.com.br/esporte/futebol/ultimas/2006/02/19/ult59u100019.jhtm|titulo=Fluminense confirma saída do técnico Ivo Wortmann|data=19 de fevereiro de 2006|acessodata=19 de julho de 2020|publicado=uol.com.br|wayb=20250328033231}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulo Campos]]
+| 21/02/2006 – 13/03/2006
+| 
+|<ref>{{citar web|url=https://www.gazetadopovo.com.br/esportes/paulo-campos-e-o-novo-tecnico-do-fluminense-9wl5himi92kqmg54gw6fomamm/|titulo=Paulo Campos é o novo técnico do Fluminense|data=21 de fevereiro de 2006|acessodata=19 de julho de 2020|publicado=gazetadopovo.com.br|wayb=20250328034956}}</ref><ref>{{citar web|url=https://www.uol.com.br/esporte/futebol/ultimas/2006/03/13/ult59u100583.jhtm|titulo=Após cinco jogos, Paulo Campos é demitido do Fluminense|data=13 de março de 2006|acessodata=19 de julho de 2020|publicado=uol.com.br|wayb=20250328024922}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Josué Teixeira]]
+| 14/03/2006 – 29/03/2006
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Oswaldo de Oliveira (treinador de futebol)|Oswaldo de Oliveira]]
+| 30/03/2006 – 07/08/2006
+|
+|<ref>{{citar web|url=http://globoesporte.globo.com/ESP/Noticia/Arquivo/0,,AA1166092-4284,00.html|titulo=Oswaldo de Oliveira se apresenta na quinta|data=27 de março de 2006|acessodata=19 de julho de 2020|publicado=globoesporte.com|wayb=20230407005718}}</ref><br /><ref name="Não_nomeado-x-gJ-1">{{citar web|url=https://www.uol.com.br/esporte/futebol/ultimas/2006/08/07/ult59u103427.jhtm|titulo=Fluminense demite Oswaldo de Oliveira e promove Josué Teixeira|data=7 de agosto de 2006|acessodata=19 de julho de 2020|publicado=uol.com.br|wayb=20250328035421}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Josué Teixeira]]
+| 07/08/2006 – 23/08/2006
+| 
+|<ref name="Não_nomeado-x-gJ-1" /><ref>{{citar web|url=https://www.uol.com.br/esporte/futebol/ultimas/2006/08/23/ult59u103949.jhtm|titulo=Com autoridade, Palmeiras vence o Fluminense|data=23 de agosto de 2006|acessodata=19 de julho de 2020|publicado=uol.com.br|wayb=20250121012129}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Antônio Lopes (treinador de futebol)|Antônio Lopes]]
+| 23/08/2006 – 29/09/2006
+| 
+|<ref>{{citar web|url=https://www.sonoticias.com.br/esportes/antonio-lopes-e-o-novo-tecnico-do-fluminense/|titulo=Antonio Lopes é o novo técnico do Fluminense|data=23 de agosto de 2006|acessodata=19 de julho de 2020|publicado=sonoticias.com.br|wayb=20250328034255}}</ref><ref name="Não_nomeado-x-gJ-2">{{citar web|url=https://www.nsctotal.com.br/noticias/fluminense-anuncia-novo-tecnico-pc-gusmao|titulo=Fluminense anuncia novo técnico: PC Gusmão|data=29 de setembro de 2006|acessodata=19 de julho de 2020|publicado=nsctotal.com.br|wayb=20250328031429}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Paulo César Gusmão]]
+| 29/09/2006 – 11/02/2007
+| 
+|<ref name="Não_nomeado-x-gJ-2" /><ref>{{citar web|url=https://oglobo.globo.com/esportes/pc-gusmao-nao-mais-tecnico-do-fluminense-4216842|titulo=PC Gusmão não é mais o técnico do Fluminense|data=11 de fevereiro de 2007|acessodata=19 de julho de 2020|publicado=oglobo.globo.com|wayb=20250328032725}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Vinícius Eutrópio]]
+| 14/02/2007 – 17/02/2007
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Joel Santana]]
+| 28/02/2007 – 19/04/2007
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Vinícius Eutrópio]]
+| 25/04/2007
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Renato Gaúcho]]
+| 02/05/2007 – 10/08/2008
+| <small>'''2007:''' Campeão da [[Copa do Brasil de Futebol de 2007|Copa do Brasil]] e classificado à [[Copa Libertadores da América de 2008|Copa Libertadores da América]], e 4º colocado no [[Campeonato Brasileiro de Futebol de 2007 - Série A|Campeonato Brasileiro]]</small><br />'''2008:''' Vice-campeão da Copa Libertadores da América
+|<ref>{{Citar web|url=https://www.otempo.com.br/sports/lancepedia/2025/2/26/titulo-do-fluminense-na-copa-do-brasil-a-conquista-de-2007|titulo=Título do Fluminense na Copa do Brasil: a conquista de 2007|data=2025-02-26|acessodata=2025-03-31|website=[[O Tempo]]|wayb=20260106091315}}</ref><ref>{{Citar web|ultimo=|primeiro=|url=https://sportv.globo.com/site/programas/bem-amigos/noticia/2017/01/renato-confessa-trauma-com-vice-da-libertadores-em-2008-nao-engoli.html|titulo=Renato confessa "trauma" com vice da Libertadores em 2008: "Não engoli"|data=2017-01-31|acessodata=2025-03-31|website=[[SporTV]]|wayb=20260106122739}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| rowspan="2" | {{BRAb}} [[Alexandre Mendes]]
+| 15/09/2007 – 23/09/2007
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| 21/06/2008
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Cuca (treinador de futebol)|Cuca]]
+| 17/08/2008 – 01/10/2008
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Vinícius Eutrópio]]
+| 25/05/2008
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[René Simões]]
+| 11/10/2008 – 05/03/2009
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Gilson Gênio]]
+| 08/03/2009
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Carlos Alberto Parreira]]
+| 11/03/2009 – 13/07/2009
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Vinícius Eutrópio]]
+| 15/07/2009 – 18/07/2009
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Renato Gaúcho]]
+| 20/07/2009 – 01/09/2009
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Cuca (treinador de futebol)|Cuca]]
+| 02/09/2009 – 19/04/2010
+|
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Mário Marques (futebolista)|Mário Marques]]
+| 22/04/2010
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Muricy Ramalho]]
+| 29/04/2010 – 13/03/2011
+| <small>'''2010:''' Campeão do [[Campeonato Brasileiro de Futebol de 2010|Campeonato Brasileiro]] e classificado à [[Copa Libertadores da América de 2011|Copa Libertadores da América]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Ronaldo Torres]]
+| 19/03/2011
+| 
+|<ref>{{citar web|url=http://globoesporte.globo.com/futebol/times/fluminense/noticia/2011/03/preparador-fisico-vai-comandar-o-fluminense-interinamente.html|titulo=Preparador físico vai comandar o Fluminense interinamente|data=15 de março de 2011|acessodata=24 de fevereiro de 2014|publicado=[[GloboEsporte.com]]|autor=FERNANDES, Thiago|wayb=20230407005718}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Enderson Moreira]]
+| 23/03/2011 – 29/05/2011
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Leomir de Souza|Leomir]]
+| 04/06/2011
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Abel Braga]]
+| 12/06/2011 – 28/07/2013
+| <small>'''2011:''' 3º colocado no [[Campeonato Brasileiro de Futebol de 2011|Campeonato Brasileiro]] e classificado à [[Copa Libertadores da América de 2012|Copa Libertadores da América]]<br />'''2012: '''Campeão do [[Campeonato Carioca de Futebol de 2012|Campeonato Carioca]] e do [[Campeonato Brasileiro de Futebol de 2012|Campeonato Brasileiro]]</small>
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Vanderlei Luxemburgo]]
+| 31/07/2013 – 11/11/2013
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Antônio Lopes dos Santos Júnior|Júnior Lopes]]
+| 06/10/2013 – 09/10/2013
+| 
+|<ref>{{citar web|url=http://www.lancenet.com.br/minuto/Luxa-Junior-Lopes-Fluminense-Vasco_0_1007899202.html|titulo=Por Luxa, Júnior Lopes comanda Fluminense contra o Vasco|data=9 de outubro de 2013|acessodata=15 de fevereiro de 2015|publicado=LanceNet.com|autor=VIEIRA, Marcello & BABO, Matheus|wayb=20150216073752}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Dorival Júnior]]
+| 14/11/2013 – 08/12/2013
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Renato Gaúcho]]
+| 17/01/2014 – 30/03/2014
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Cristóvão Borges]]
+| 02/04/2014 – 23/03/2015
+| 
+|<ref>{{citar web|url=http://esporte.uol.com.br/futebol/ultimas-noticias/2014/04/02/fluminense-age-rapido-e-define-contratacao-de-tecnico-cristovao-borges.htm|titulo=Fluminense age rápido e define contratação do técnico Cristóvão Borges|data=2 de abril de 2014|acessodata=2 de abril de 2014|publicado=Esporte.[[Universo Online|UOL]].com|autor=PARADELLA, Rodrigo|wayb=20161116020156}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Ricardo Drubscky]]
+| 24/03/2015 – 20/05/2015
+| 
+|<ref>{{citar web|url=http://sportv.globo.com/site/programas/selecao-sportv/noticia/2015/03/fluminense-acerta-contratacao-do-tecnico-ricardo-drubscky.html|titulo=Fluminense fecha com Ricardo Drubscky para o lugar de Cristóvão|data=23 de março de 2015|acessodata=24 de março de 2015|publicado=[[SporTV]].com|autor=SporTV.com|wayb=20250328075209}}</ref>
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Enderson Moreira]]
+| 21/05/2015 – 16/09/2015
+| 
+|<ref>{{citar web|url=http://www.fluminense.com.br/site/futebol/2015/05/21/enderson-moreira-e-o-novo-tecnico-do-fluminense-para-a-sequencia-do-brasileiro/|titulo=Enderson Moreira é o novo técnico do Fluminense para a sequência do Brasileiro|data=21 de maio de 2015|acessodata=21 de setembro de 2015|publicado=Fluminense.com|autor=Comunicação Institucional FFC|wayb=20161012123047}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Luís Fernando Rosa Flores|Luís Fernando]]
+| 12/07/2015
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Eduardo Baptista]]
+| 17/09/2015 – 25/02/2016
+|
+|<ref>{{citar web|url=http://espn.uol.com.br/noticia/543951_eduardo-baptista-deixa-o-sport-e-e-o-novo-tecnico-do-fluminense|titulo=Eduardo Baptista deixa o Sport e é o novo técnico do Fluminense|data=17 de setembro de 2015|acessodata=21 de setembro de 2015|publicado=[[ESPN]].com|autor=|wayb=20160324111238}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+| 02/03/2016
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Levir Culpi]]
+| 04/03/2016 – 06/11/2016
+| <small>'''2016:''' Campeão da [[Primeira Liga do Brasil de 2016|Primeira Liga]]</small>
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+| 07/11/2016 – 11/12/2016
+| 
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Abel Braga]]
+| 12/12/2016 – 30/06/2018
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Marcelo Oliveira]]
+| 01/07/2018 – 29/11/2018
+| 
+|<ref>{{Citar web|ultimo=gazetaesportiva|url=https://www.terra.com.br/esportes/fluminense/fluminense-anuncia-marcelo-oliveira-como-novo-treinador,5e8db2839c8efeb1f9547d484e97162at9mez04j.html|titulo=Fluminense anuncia Marcelo Oliveira como novo treinador|acessodata=2023-05-01|website=Terra|lingua=pt-BR|wayb=20250328053631}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Fábio Moreno]]
+| 30/11/2018 – 19/12/2018
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Fernando Diniz (treinador de futebol)|Fernando Diniz]]
+| 19/12/2018 – 19/08/2019
+| 
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+| 19/08/2019 – 22/08/2019
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Oswaldo de Oliveira]]
+| 23/08/2019 – 26/09/2019
+|
+|
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+| 26/09/2019 – 11/12/2019
+|
+|
+|- style="background:white; color:black; text-align:left;"
+| {{BRAb}} [[Odair Hellmann]]
+| 11/12/2019 – 07/12/2020
+|
+|<ref>{{Citar web|url=https://www.pe.superesportes.com.br/app/noticias/futebol/futebol-nacional/18,87,1,131/2019/12/11/noticia_fluminense,3680209/fluminense-anuncia-a-contratacao-do-tecnico-odair-hellmann-ate-o-final.shtml|titulo=Fluminense anuncia a contratação do técnico Odair Hellmann até o final de 2020|data=2019-12-11|acessodata=2023-06-30|website=Superesportes|lingua=pt-br|wayb=20250328025852}}</ref>
+|-
+| {{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+| 07/12/2020 – 27/02/2021
+| <small>'''2020:''' 5º colocado no [[Campeonato Brasileiro de Futebol de 2020 - Série A|Campeonato Brasileiro]] e classificado à [[Copa Libertadores da América de 2021|Copa Libertadores da América]]</small>
+|
+|-
+| {{BRAb}} [[Roger Machado]]
+| 27/02/2021 – 21/08/2021
+|
+|<ref>{{Citar web|ultimo=|url=https://sportbuzz.uol.com.br/noticias/mercado-da-bola/roger-machado-e-apresentado-no-fluminense-e-se-declara-coracao-falou-bem-alto.phtml|titulo=Roger Machado é apresentado no Fluminense e se declara: "Coração falou bem alto"|data=2021-02-27|acessodata=2023-04-30|website=Sportbuzz|lingua=pt-br|wayb=20240303013709}}</ref><ref>{{Citar web|url=https://www.espn.com.br/futebol/artigo/_/id/9082415/fluminense-roger-machado-e-demitido-do-comando-tecnico-apos-queda-na-libertadores|titulo=Roger Machado é demitido do comando técnico do Fluminense dois dias após queda na Libertadores|data=2021-08-21|acessodata=2023-04-30|website=ESPN.com|lingua=pt|wayb=20250328083358}}</ref>
+|-
+| {{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+| 21/08/2021 – 14/12/2021
+| '''<small>2021:</small>''' <small>7º colocado no [[Campeonato Brasileiro de Futebol de 2021 - Série A|Campeonato Brasileiro]] e classificado à [[Copa Libertadores da América de 2022|Copa Libertadores da América]]</small>
+|
+|-
+| {{BRAb}} [[Abel Braga]]
+| 14/12/2021 – 28/04/2022 
+| <small>'''2022:''' Campeão do [[Campeonato Carioca de Futebol de 2022|Campeonato Carioca]]</small>
+|<ref>{{Citar web|url=https://ge.globo.com/futebol/times/fluminense/noticia/fluminense-anuncia-oficialmente-abel-braga-como-novo-tecnico-para-2022.ghtml|titulo=Fluminense anuncia Abel Braga como novo técnico para 2022: "Bem-vindo de volta para casa"|acessodata=2023-04-30|website=ge|lingua=pt-br|wayb=20230719151826}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+| {{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+| 28/04/2022 – 01/05/2022
+|
+|
+|-
+| {{BRAb}} [[Fernando Diniz]]
+| 01/05/2022 – 24/06/2024
+| <small>'''2023:''' Campeão do [[Campeonato Carioca de Futebol de 2023|Campeonato Carioca]] e da [[Copa Libertadores da América de 2023|Copa Libertadores da América]], além de se classificar para o [[Copa Libertadores da América de 2024|torneio de 2024]]</small><br><small>'''2024''': Campeão da [[Recopa Sul-Americana de 2024|Recopa Sul-Americana]]</small>
+|<ref>{{Citar web|url=https://ge.globo.com/futebol/times/fluminense/noticia/2022/04/30/fluminense-anuncia-a-contratacao-do-tecnico-fernando-diniz.ghtml|titulo=Fluminense anuncia a contratação do técnico Fernando Diniz|acessodata=2023-04-30|website=ge|lingua=pt-br|wayb=20260427000044}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+|{{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+|25/06/2024 – 01/07/2024 
+|
+|
+|-
+|{{BRAb}} [[Mano Menezes]]
+|01/07/2024 – 30/03/2025
+|
+|<ref>{{Citar web|ultimo=|primeiro=|url=http://www.fluminense.com.br/noticia/mano-menezes-e-o-novo-tecnico-do-fluminense|titulo=Mano Menezes é o novo técnico do Fluminense|acessodata=2024-07-01|website=Fluminense Football Club|lingua=pt-BR|wayb=20251202074119}}</ref><ref name=":0">{{Citar web|url=https://ge.globo.com/futebol/times/fluminense/noticia/2025/03/30/fluminense-demite-mano-menezes.ghtml|titulo=Mano Menezes é demitido do Fluminense|data=2025-03-30|acessodata=2025-03-30|website=ge|lingua=pt-br}}</ref>
+|- style="padding:0 10px; text-align:left; background:lightgreen;"
+|{{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+|30/03/2025 – 03/04/2025
+|
+|<ref>{{Citar web|ultimo=Prais|primeiro=Sharon Nigri|url=https://www.lance.com.br/fluminense/marcao-assume-o-fluminense-ate-definicao-do-novo-treinador-veja-numeros.html|titulo=Marcão assume o Fluminense até definição do novo treinador; veja números|data=2025-03-31|acessodata=2025-03-31|website=[[Lance!]]|wayb=20250722132756}}</ref>
+|-
+| {{BRAb}} [[Renato Gaúcho]]
+|03/04/2025 – 24/09/2025
+|'''<small>2025:</small>''' <small>4º colocado na [[Mundial de Clubes FIFA de 2025|Mundial de Clubes FIFA 2025]]</small>
+|<ref>{{Citar web|url=https://ge.globo.com/futebol/times/fluminense/noticia/2025/04/03/fluminense-acerta-a-contratacao-de-renato-gaucho.ghtml|titulo=Fluminense acerta a contratação de Renato Gaúcho|data=2025-04-03|acessodata=2025-04-03|website=[[ge]]|wayb=20260208004052}}</ref>
+|-
+| {{ARGb}} [[Luis Zubeldía]]
+|25/09/2025 –
+13/08/2026
+|'''<small>2025:</small>''' <small>5º colocado no [[Campeonato Brasileiro de Futebol de 2025 - Série A|Campeonato Brasileiro]] e classificado à [[Copa Libertadores da América de 2026|Copa Libertadores da América]]</small>
+|<ref>{{Citar web|url=https://ge.globo.com/futebol/times/fluminense/noticia/2025/09/25/fluminense-anuncia-contratacao-de-luis-zubeldia.ghtml|titulo=Fluminense anuncia contratação de Luis Zubeldía|data=2025-09-25|acessodata=2025-09-25|website=ge|lingua=pt-br|wayb=20260208004318}}</ref> <ref>{{Citar web|ultimo=Club|primeiro=Fluminense Football|url=http://www.fluminense.com.br/noticia/nota-oficial-luis-zubeldia|titulo=NOTA OFICIAL - LUIS ZUBELDÍA|acessodata=2026-08-13|website=Fluminense Football Club|língua=pt-BR}}</ref>
+|-
+||{{BRAb}} [[Marco Aurélio de Oliveira|Marcão]]
+|13/08/2026 –
+|
+|<ref>{{Citar web|url=https://ge.globo.com/futebol/times/fluminense/noticia/2026/08/13/sem-zubeldia-fluminense-se-reapresenta-e-treina-sob-o-comando-de-marcao-tecnico-interino.ghtml|titulo=Sem Zubeldía, Fluminense se reapresenta e treina com Marcão|data=2026-08-13|acessodata=2026-08-13|website=ge|língua=pt-BR}}</ref><ref>{{Citar web|url=https://ge.globo.com/futebol/times/fluminense/noticia/2026/08/22/efetivado-marcao-fala-pela-primeira-vez-como-tecnico-do-fluminense.ghtml|titulo=Efetivado, Marcão quer um Fluminense "alegre, leve e organizado"|data=2026-08-22|acessodata=2026-08-30|website=ge|língua=pt-BR}}</ref>
+|}
+
+== Estatísticas ==
+<small>Última atualização feita em 23 de novembro de 2026</small>
+:<small>'''Legenda:'''</small>
+:<small>{{colorbox|white}} Treinador efetivo</small>
+:<small>{{colorbox|lightgreen}} Treinador interino</small>
+:<small>{{colorbox|gold}} Treinador atual</small>
+
+{| class="toccolours sortable"
+!style="background-color:#f00000;"|<span style="color:#fff;">Treinador</span>
+!style="background-color:#f00000;"|<span style="color:#fff;">{{tooltip|J|Jogos}}</span>
+!style="background-color:#f00000;"|<span style="color:#fff;">{{tooltip|V|Vitórias}}</span>
+!style="background-color:#f00000;"|<span style="color:#fff;">{{tooltip|E|Empates}}</span>
+!style="background-color:#f00000;"|<span style="color:#fff;">{{tooltip|D|Derrotas}}</span>
+!style="background-color:#f00000;"|<span style="color:#fff;">{{tooltip|%|Aproveitamento}}</span>
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Abel Braga
+|style="padding:0 5px; text-align:right;"|352
+|style="padding:0 5px; text-align:right;"|174
+|style="padding:0 5px; text-align:right;"|77
+|style="padding:0 5px; text-align:right;"|101
+|style="padding:0 5px; text-align:right;"|56,72
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Admildo Chirol
+|style="padding:0 5px; text-align:right;"|36
+|style="padding:0 5px; text-align:right;"|21
+|style="padding:0 5px; text-align:right;"|10
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|67,59
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Alexandre Gama
+|style="padding:0 5px; text-align:right;"|24
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|54,17
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Alexandre Mendes
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|58,33
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Alfredo González
+|style="padding:0 5px; text-align:right;"|12
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|58,33
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Altair
+|style="padding:0 5px; text-align:right;"|30
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|57,78
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Antoninho Fernandes
+|style="padding:0 5px; text-align:right;"|20
+|style="padding:0 5px; text-align:right;"|10
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|56,67
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Antônio Lopes
+|style="padding:0 5px; text-align:right;"|50
+|style="padding:0 5px; text-align:right;"|22
+|style="padding:0 5px; text-align:right;"|16
+|style="padding:0 5px; text-align:right;"|12
+|style="padding:0 5px; text-align:right;"|54,67
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Arno Frank
+|style="padding:0 5px; text-align:right;"|28
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|66,67
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Arthur Azevedo
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|38,10
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Arthur Bernardes
+|style="padding:0 5px; text-align:right;"|33
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|50,51
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Arturzinho
+|style="padding:0 5px; text-align:right;"|9
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|44,44
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Athuel Velázquez
+|style="padding:0 5px; text-align:right;"|30
+|style="padding:0 5px; text-align:right;"|10
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"|40,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Carbone
+|style="padding:0 5px; text-align:right;"|86
+|style="padding:0 5px; text-align:right;"|34
+|style="padding:0 5px; text-align:right;"|31
+|style="padding:0 5px; text-align:right;"|21
+|style="padding:0 5px; text-align:right;"|51,55
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Carlos Carlomagno
+|style="padding:0 5px; text-align:right;"|87
+|style="padding:0 5px; text-align:right;"|60
+|style="padding:0 5px; text-align:right;"|12
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|73,56
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Carlos Alberto Parreira
+|style="padding:0 5px; text-align:right;"|143
+|style="padding:0 5px; text-align:right;"|65
+|style="padding:0 5px; text-align:right;"|32
+|style="padding:0 5px; text-align:right;"|46
+|style="padding:0 5px; text-align:right;"|52,91
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Carlos Alberto Torres
+|style="padding:0 5px; text-align:right;"|27
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|71,60
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Charlie Williams
+|style="padding:0 5px; text-align:right;"|79
+|style="padding:0 5px; text-align:right;"|54
+|style="padding:0 5px; text-align:right;"|9
+|style="padding:0 5px; text-align:right;"|16
+|style="padding:0 5px; text-align:right;"|72,15
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Cláudio Duarte
+|style="padding:0 5px; text-align:right;"|10
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|30,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Cláudio Garcia
+|style="padding:0 5px; text-align:right;"|41
+|style="padding:0 5px; text-align:right;"|25
+|style="padding:0 5px; text-align:right;"|10
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|69,11
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Cristóvão Borges
+|style="padding:0 5px; text-align:right;"|58
+|style="padding:0 5px; text-align:right;"|28
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|19
+|style="padding:0 5px; text-align:right;"|54,60
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Cuca
+|style="padding:0 5px; text-align:right;"|55
+|style="padding:0 5px; text-align:right;"|30
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|64,85
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Delei
+|style="padding:0 5px; text-align:right;"|24
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|44,44
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Didi
+|style="padding:0 5px; text-align:right;"|40
+|style="padding:0 5px; text-align:right;"|25
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|9
+|style="padding:0 5px; text-align:right;"|67,50
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Dino Sani
+|style="padding:0 5px; text-align:right;"|37
+|style="padding:0 5px; text-align:right;"|18
+|style="padding:0 5px; text-align:right;"|10
+|style="padding:0 5px; text-align:right;"|9
+|style="padding:0 5px; text-align:right;"|57,66
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Dorival Júnior
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|66,67
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Duílio
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"|10
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|73,81
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Duque
+|style="padding:0 5px; text-align:right;"|99
+|style="padding:0 5px; text-align:right;"|36
+|style="padding:0 5px; text-align:right;"|35
+|style="padding:0 5px; text-align:right;"|28
+|style="padding:0 5px; text-align:right;"|48,15
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Edinho
+|style="padding:0 5px; text-align:right;"|81
+|style="padding:0 5px; text-align:right;"|37
+|style="padding:0 5px; text-align:right;"|27
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|56,79
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Edu Coimbra
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|22,22
+|-
+!style="padding:0 10px; text-align:left; background:fff;"|Eduardo Baptista
+|style="padding:0 5px; text-align:right;"|26
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|13
+|style="padding:0 5px; text-align:right;"|37,18
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Enderson Moreira
+|style="padding:0 5px; text-align:right;"|24
+|style="padding:0 5px; text-align:right;"|18
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"|52,63
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Eugênio Medgyessy
+|style="padding:0 5px; text-align:right;"|43
+|style="padding:0 5px; text-align:right;"|26
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|65,12
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Evaristo de Macedo
+|style="padding:0 5px; text-align:right;"|43
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|18
+|style="padding:0 5px; text-align:right;"|45,74
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Everaldo Antônio
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|66,67
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Fábio Moreno
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|100,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Fernando Diniz
+|style="padding:0 5px; text-align:right;"|190
+|style="padding:0 5px; text-align:right;"|92
+|style="padding:0 5px; text-align:right;"|41
+|style="padding:0 5px; text-align:right;"|57
+|style="padding:0 5px; text-align:right;"|55.61
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Fleitas Solich
+|style="padding:0 5px; text-align:right;"|52
+|style="padding:0 5px; text-align:right;"|33
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|70,51
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Gentil Cardoso
+|style="padding:0 5px; text-align:right;"|148
+|style="padding:0 5px; text-align:right;"|85
+|style="padding:0 5px; text-align:right;"|29
+|style="padding:0 5px; text-align:right;"|34
+|style="padding:0 5px; text-align:right;"|63,96
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Gilson Gênio
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|33,33
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Gílson Nunes
+|style="padding:0 5px; text-align:right;"|42
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|10
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|48,41
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Gradim
+|style="padding:0 5px; text-align:right;"|118
+|style="padding:0 5px; text-align:right;"|71
+|style="padding:0 5px; text-align:right;"|19
+|style="padding:0 5px; text-align:right;"|28
+|style="padding:0 5px; text-align:right;"|65,54
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|''Ground Committeé''
+|style="padding:0 5px; text-align:right;"|160
+|style="padding:0 5px; text-align:right;"|91
+|style="padding:0 5px; text-align:right;"|30
+|style="padding:0 5px; text-align:right;"|39
+|style="padding:0 5px; text-align:right;"|63,13
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Héctor Cabelli
+|style="padding:0 5px; text-align:right;"|35
+|style="padding:0 5px; text-align:right;"|19
+|style="padding:0 5px; text-align:right;"|12
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|65,71
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Hugo de León
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|44,44
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Humberto Cabelli
+|style="padding:0 5px; text-align:right;"|23
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|66,67
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Ismael Kurtz
+|style="padding:0 5px; text-align:right;"|18
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|57,41
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Ivo Wortmann
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|44,44
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Jair Pereira
+|style="padding:0 5px; text-align:right;"|37
+|style="padding:0 5px; text-align:right;"|16
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|48,65
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Jair Rosa Pinto
+|style="padding:0 5px; text-align:right;"|27
+|style="padding:0 5px; text-align:right;"|16
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|66,67
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Jair Santana
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|100,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|J.A. Quincey Taylor
+|style="padding:0 5px; text-align:right;"|122
+|style="padding:0 5px; text-align:right;"|75
+|style="padding:0 5px; text-align:right;"|22
+|style="padding:0 5px; text-align:right;"|25
+|style="padding:0 5px; text-align:right;"|67,49
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|''João Carlos''
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|50,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Joel Santana
+|style="padding:0 5px; text-align:right;"|86
+|style="padding:0 5px; text-align:right;"|38
+|style="padding:0 5px; text-align:right;"|25
+|style="padding:0 5px; text-align:right;"|23
+|style="padding:0 5px; text-align:right;"|53,88
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Jorge Vieira
+|style="padding:0 5px; text-align:right;"|16
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|43,75
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Jorginho
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|33,33
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|José Carlos Amaral
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|100,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|José Duarte
+|style="padding:0 5px; text-align:right;"|20
+|style="padding:0 5px; text-align:right;"|13
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|70,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|José Omar Pastoriza
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|33,33
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Josué Teixeira
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|61,90
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Júlio César Leal
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|47,06
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Júnior Lopes
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|–
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Leomir
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|100,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Levir Culpi
+|style="padding:0 5px; text-align:right;"|52
+|style="padding:0 5px; text-align:right;"|22
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|51,92
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Lúcio Novelli
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|33,33
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Luís Fernando
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|100,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Luís Vinhaes
+|style="padding:0 5px; text-align:right;"|145
+|style="padding:0 5px; text-align:right;"|74
+|style="padding:0 5px; text-align:right;"|26
+|style="padding:0 5px; text-align:right;"|45
+|style="padding:0 5px; text-align:right;"|57,01
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Luis Zubeldía *
+|style="padding:0 5px; text-align:right;"|61
+|style="padding:0 5px; text-align:right;"|30
+|style="padding:0 5px; text-align:right;"|18
+|style="padding:0 5px; text-align:right;"|13
+|style="padding:0 5px; text-align:right;"|59.00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Luiz Henrique
+|style="padding:0 5px; text-align:right;"|25
+|style="padding:0 5px; text-align:right;"|13
+|style="padding:0 5px; text-align:right;"|9
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|64,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Lula
+|style="padding:0 5px; text-align:right;"|19
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|50,88
+|-
+!style="padding:0 10px; text-align:left; background:gold;"|Marcão{{Nre|Contabilizando todas as vezes, ou passagens em que ele assumiu o clube haja vista que ele é auxiliar permanente.}}
+|style="padding:0 5px; text-align:right;"|91
+|style="padding:0 5px; text-align:right;"|41
+|style="padding:0 5px; text-align:right;"|22
+|style="padding:0 5px; text-align:right;"|28
+|style="padding:0 5px; text-align:right;"| 53.11
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Marcelo Oliveira
+|style="padding:0 5px; text-align:right;"|33
+|style="padding:0 5px; text-align:right;"|12
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|13
+|style="padding:0 5px; text-align:right;"|44,44
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Mano Menezes 
+|style="padding:0 5px; text-align:right;"|46
+|style="padding:0 5px; text-align:right;"|20
+|style="padding:0 5px; text-align:right;"|13
+|style="padding:0 5px; text-align:right;"|13
+|style="padding:0 5px; text-align:right;"|52.90
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Mário Marques
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|100,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Mário Travaglini
+|style="padding:0 5px; text-align:right;"|63
+|style="padding:0 5px; text-align:right;"|36
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"|13
+|style="padding:0 5px; text-align:right;"|64,55
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Mauro Rosa Martins
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|51,85
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Muricy Ramalho
+|style="padding:0 5px; text-align:right;"|54
+|style="padding:0 5px; text-align:right;"|28
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|61,11
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Nelsinho Rosa
+|style="padding:0 5px; text-align:right;"|152
+|style="padding:0 5px; text-align:right;"|69
+|style="padding:0 5px; text-align:right;"|42
+|style="padding:0 5px; text-align:right;"|41
+|style="padding:0 5px; text-align:right;"|54,61
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Newton Anet
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|100,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Odair Hellmann
+|style="padding:0 5px; text-align:right;"|50
+|style="padding:0 5px; text-align:right;"|24
+|style="padding:0 5px; text-align:right;"|12
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"| 56,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Ondino Viera
+|style="padding:0 5px; text-align:right;"|266
+|style="padding:0 5px; text-align:right;"|160
+|style="padding:0 5px; text-align:right;"|48
+|style="padding:0 5px; text-align:right;"|58
+|style="padding:0 5px; text-align:right;"|66,17
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Oswaldo de Oliveira
+|style="padding:0 5px; text-align:right;"|84
+|style="padding:0 5px; text-align:right;"|40
+|style="padding:0 5px; text-align:right;"|23
+|style="padding:0 5px; text-align:right;"|21
+|style="padding:0 5px; text-align:right;"|56,75
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Othon Valentim
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|48,48
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Otto Vieira
+|style="padding:0 5px; text-align:right;"|59
+|style="padding:0 5px; text-align:right;"|21
+|style="padding:0 5px; text-align:right;"|18
+|style="padding:0 5px; text-align:right;"|20
+|style="padding:0 5px; text-align:right;"|45,76
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Paulo César Gusmão
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|29,41
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Paulinho de Almeida
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|49,02
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Paulo Amaral
+|style="padding:0 5px; text-align:right;"|101
+|style="padding:0 5px; text-align:right;"|56
+|style="padding:0 5px; text-align:right;"|24
+|style="padding:0 5px; text-align:right;"|21
+|style="padding:0 5px; text-align:right;"|63,37
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Paulo Campos
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|53,33
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Paulo Emílio
+|style="padding:0 5px; text-align:right;"|123
+|style="padding:0 5px; text-align:right;"|62
+|style="padding:0 5px; text-align:right;"|34
+|style="padding:0 5px; text-align:right;"|27
+|style="padding:0 5px; text-align:right;"|59,62
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Pinheiro
+|style="padding:0 5px; text-align:right;"|111
+|style="padding:0 5px; text-align:right;"|56
+|style="padding:0 5px; text-align:right;"|28
+|style="padding:0 5px; text-align:right;"|27
+|style="padding:0 5px; text-align:right;"|58,86
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Pode Pedersen
+|style="padding:0 5px; text-align:right;"|73
+|style="padding:0 5px; text-align:right;"|36
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|22
+|style="padding:0 5px; text-align:right;"|56,16
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Procópio Cardoso
+|style="padding:0 5px; text-align:right;"|34
+|style="padding:0 5px; text-align:right;"|22
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|70,59
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Ramón Platero
+|style="padding:0 5px; text-align:right;"|18
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|94,44
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Raul Carlesso
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|4
+|style="padding:0 5px; text-align:right;"|22,22
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Renato Gaúcho
+|style="padding:0 5px; text-align:right;"|248
+|style="padding:0 5px; text-align:right;"|110
+|style="padding:0 5px; text-align:right;"|62
+|style="padding:0 5px; text-align:right;"|76
+|style="padding:0 5px; text-align:right;"| 52.69
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|René Simões
+|style="padding:0 5px; text-align:right;"|21
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|60,32
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Ricardo Drubscky
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|62,50
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Ricardo Gomes
+|style="padding:0 5px; text-align:right;"|34
+|style="padding:0 5px; text-align:right;"|12
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|46,08
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Rivelino Serpa
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|100,00
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Robertinho
+|style="padding:0 5px; text-align:right;"|29
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|58,62
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Roberto Pinto
+|style="padding:0 5px; text-align:right;"|21
+|style="padding:0 5px; text-align:right;"|8
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|49,21
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Roger Machado
+|style="padding:0 5px; text-align:right;"|42
+|style="padding:0 5px; text-align:right;"|19
+|style="padding:0 5px; text-align:right;"|12
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|54,76
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Ronaldo Torres
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|–
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Rubens Galaxe
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|0
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|–
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Russo
+|style="padding:0 5px; text-align:right;"|15
+|style="padding:0 5px; text-align:right;"|7
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|51,11
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Sebastião Araújo
+|style="padding:0 5px; text-align:right;"|31
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|9
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|64,52
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Sérgio Cosme
+|style="padding:0 5px; text-align:right;"|72
+|style="padding:0 5px; text-align:right;"|33
+|style="padding:0 5px; text-align:right;"|22
+|style="padding:0 5px; text-align:right;"|17
+|style="padding:0 5px; text-align:right;"|56,02
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Sylvio Pirillo
+|style="padding:0 5px; text-align:right;"|165
+|style="padding:0 5px; text-align:right;"|103
+|style="padding:0 5px; text-align:right;"|30
+|style="padding:0 5px; text-align:right;"|32
+|style="padding:0 5px; text-align:right;"|68,48
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Telê Santana
+|style="padding:0 5px; text-align:right;"|114
+|style="padding:0 5px; text-align:right;"|58
+|style="padding:0 5px; text-align:right;"|26
+|style="padding:0 5px; text-align:right;"|30
+|style="padding:0 5px; text-align:right;"|58,48
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Tim
+|style="padding:0 5px; text-align:right;"|166
+|style="padding:0 5px; text-align:right;"|71
+|style="padding:0 5px; text-align:right;"|39
+|style="padding:0 5px; text-align:right;"|56
+|style="padding:0 5px; text-align:right;"|50,60
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Valdir Espinosa
+|style="padding:0 5px; text-align:right;"|111
+|style="padding:0 5px; text-align:right;"|52
+|style="padding:0 5px; text-align:right;"|34
+|style="padding:0 5px; text-align:right;"|25
+|style="padding:0 5px; text-align:right;"|57,06
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Vanderlei Luxemburgo
+|style="padding:0 5px; text-align:right;"|39
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"|14
+|style="padding:0 5px; text-align:right;"|40,17
+|-
+!style="padding:0 10px; text-align:left; background:lightgreen;"|Vinícius Eutrópio
+|style="padding:0 5px; text-align:right;"|6
+|style="padding:0 5px; text-align:right;"|1
+|style="padding:0 5px; text-align:right;"|2
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|27,78
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Waldemar Lemos
+|style="padding:0 5px; text-align:right;"|11
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|3
+|style="padding:0 5px; text-align:right;"|5
+|style="padding:0 5px; text-align:right;"|36,36
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Zagallo
+|style="padding:0 5px; text-align:right;"|83
+|style="padding:0 5px; text-align:right;"|35
+|style="padding:0 5px; text-align:right;"|29
+|style="padding:0 5px; text-align:right;"|19
+|style="padding:0 5px; text-align:right;"|53,82
+|-
+!style="padding:0 10px; text-align:left; background:#fff;"|Zezé Moreira
+|style="padding:0 5px; text-align:right;"|497
+|style="padding:0 5px; text-align:right;"|302
+|style="padding:0 5px; text-align:right;"|93
+|style="padding:0 5px; text-align:right;"|102
+|style="padding:0 5px; text-align:right;"|67,00
+|}
+
+** Não estão contabilizados dois jogos amistosos.
+
+== Ver também ==
+* [[Recordes do Fluminense Football Club]]
+* [[Lista de presidentes do Fluminense Football Club]]
+* [[Lista de futebolistas estrangeiros do Fluminense Football Club]]
+
+{{Notas e referências|col=2}}
+
+== Bibliografia ==
+{{colbegin|2}}
+* {{citar web |url=http://www.fluzao.info/ |titulo=Estatísticas do Fluminense >> Técnicos |publicado=Fluzão.info |autor=DE FREITAS LIMA, Ricardo |data= |acessodata=25 de setembro de 2013|wayb=20200513031101 }}
+* {{citar web |url=http://futebolemnumeros.ig.com.br/index.php/2011/03/14/flu-perde-mais-um-tecnico-precocemente/ |titulo=Flu perde mais um técnico precocemente (Técnicos com os melhores aproveitamentos) |publicado=[[Internet Group|iG]].com |autor=RODRIGUES, Rodolfo |data=14 de março de 2011 |acessodata=23 de outubro de 2016|wayb=20160502084226 }}
+* {{citar web |url=http://www.canal100.com.br/home/noticia/4 |titulo=Treinadores com melhor aproveitamento no Fluminense |publicado=Canal100.com |autor=Canal100 |data= |acessodata=14 de março de 2011|wayb=20250328031921 }}
+* {{citar web |url=http://www.flunews.com.br/04/2014/lista-jogadores-do-fluminense-que-depois-treinaram-o-time-profissional/ |titulo=Lista – Jogadores do Fluminense que depois treinaram o time profissional |publicado=Flunews.com |autor=FILHO, Paulo Cezar |data=4 de abril de 2014 |acessodata=23 de outubro de 2016|wayb=20161023200338 }}
+* {{citar web |url=https://globoesporte.globo.com/futebol/times/fluminense/noticia/tecnicos-flu-roda-24-nomes-em-16-anos-leva-dois-brasileiros-esbarra-na-ldu-e-tem-fuga-heroica-do-z-4.ghtml? |titulo=Técnicos: Flu roda 24 nomes em 16 anos, leva dois Brasileiros, esbarra na LDU e tem fuga heroica do Z-4 |publicado=Globoesporte.com |autor= MANIAUDET, Guilherme; MARÇAL, Guilherme e MALESON, Roberto |data= 13 de novembro de 2018 |acessodata= 13 de novembro de 2018|wayb=20190422135812 }}
+{{colend}}
+
+{{Bloco de navegação|Fluminense Football Club|Treinadores do Fluminense Football Club}}
+
+[[Categoria:Treinadores do Fluminense Football Club]]
+[[Categoria:Listas de treinadores de futebol do estado do Rio de Janeiro|Fluminense]]
+[[Categoria:Listas do Fluminense Football Club]]

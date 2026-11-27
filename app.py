@@ -8,7 +8,9 @@ from __future__ import annotations
 
 import streamlit as st
 
-st.set_page_config(page_title="Wikipédia do Fluminense FC", page_icon="🟩",
+from components.brand import BRAND_BOTTOM, BRAND_TOP, lockup  # noqa: E402
+
+st.set_page_config(page_title=f"{BRAND_TOP} {BRAND_BOTTOM} · Fluminense FC", page_icon="📗",
                    layout="wide", initial_sidebar_state="expanded")
 
 from components import theme  # noqa: E402
@@ -51,7 +53,8 @@ PAGES = {
 nav = st.navigation(PAGES, position="sidebar")
 
 with st.sidebar:
-    st.markdown("### Wikipédia do Fluminense")
+    st.markdown(lockup("dark"), unsafe_allow_html=True)
+    st.write("")
     q = st.text_input("Pesquisa global", placeholder="Fred, Maracanã, Libertadores 2008…",
                       key="global_q", label_visibility="collapsed")
     if q and st.session_state.get("_last_global_q") != q:

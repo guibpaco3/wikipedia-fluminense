@@ -15,7 +15,7 @@ python scripts/set_admin_password.py   # define usuário/senha do painel (grava 
 streamlit run app.py
 ```
 
-Testes: `python -m pytest -q` (43 testes: banco, coletores, filtros, estatísticas, busca, autenticação e
+Testes: `python -m pytest -q` (66 testes: banco, coletores, filtros, estatísticas, busca, autenticação e
 renderização de todas as páginas).
 
 > No Windows deste computador, o executável é `python3.13` (o alias `python` aponta para a Microsoft Store).
@@ -67,7 +67,8 @@ docs/                  ETAPA1_PLANEJAMENTO.md — viabilidade, fontes, modelo de
 | Títulos | 46 | Wikidata | **incompleto**, não verificado |
 | Técnicos | 9 passagens (Wikidata) + nomes do dataset | ambos | unificação no painel |
 | Estádios | 100 nomes | dataset | geolocalização pendente |
-| Árbitros, uniformes, presidentes, artigos | 0 | — | cadastro manual |
+| Página inicial: títulos, presidentes, técnicos, ídolos | 62 títulos, 40 mandatos, 197 passagens, 30 ídolos | Wikipédia (cópias com revid em `data/reference/wikipedia/`) | `scripts/fetch_wiki_idols.py` atualiza os ídolos |
+| Árbitros, uniformes, artigos | 0 | — | cadastro manual |
 
 ## Próximos passos (o que ainda falta)
 
